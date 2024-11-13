@@ -188,7 +188,7 @@ nav .primary-nav li.active a {
 
 .about {
   width: 100%;
-  height: 70vh;
+  height: 100vh;
   background-color: #03346E;
   background-image: url('./images/bg-circles.svg');
   background-repeat: repeat;
@@ -259,7 +259,7 @@ nav .primary-nav li.active a {
 
 .team {
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   background-color: #003161;
   display: flex;
   flex-direction: column;
@@ -316,7 +316,7 @@ nav .primary-nav li.active a {
 
 .testimonials {
   width: 100%;
-  height: 85vh;
+  height: 100vh;
   background-color: #03346E;
   display: flex;
   flex-direction: column;
@@ -444,7 +444,7 @@ nav .primary-nav li.active a {
 .form {
   padding: 2rem 2rem;
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   background-color: #021526;
   display: flex;
   flex-direction: column;
